@@ -125,3 +125,7 @@ H3{
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
 }
+.btnquiz {
+    margin-left: 50px;
+    margin-top: 10px;
+}
