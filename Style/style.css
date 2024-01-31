@@ -55,12 +55,13 @@ header li a:hover:not(.active) {
     font-style: italic;
     margin-bottom: 3px;
 }
-/* Body */ /*     <div style="padding:20px;margin-top:10px;background-color:#1abc9c;height:1500px;"> */
+/* Body */ 
 main{
     margin-top: 100px;
     height: 1500px;
     background-color: rgb(192, 192, 192);
     padding-left: 40px ;
+    padding-right: 40px;
 }
 H1{
 
