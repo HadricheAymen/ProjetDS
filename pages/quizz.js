@@ -1,8 +1,3 @@
-const rep1 = document.getElementById("rep1-1");
-const rep2 = document.getElementById("rep2-1");
-const rep3 = document.getElementById("rep3-3");
-const rep4 = document.getElementById("rep4-3");
-const rep5 = document.getElementById("rep5-3");
 
 calculerScore =() => {
 
